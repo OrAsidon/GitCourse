@@ -1,0 +1,233 @@
+    1  sudo apt install geany
+    2  sudo apt install gedit
+    3  pwd
+    4  gedit 1.txt
+    5  sudoapt install geany
+    6  sudo apt install geany
+    7  linuxhelp ~ # apt-get update
+    8  sudo rm /etc/apt/preferences.d/nosnap.pref
+    9  sudo apt update
+   10  sudo rm /etc/apt/preferences.d/nosnap.pref
+   11  udo apt update
+   12  sudo apt install snapd
+   13  sudo apt install geany
+   14  sudo apt install tree
+   15  tree
+   16  cd /
+   17  sudo apt install tree
+   18  sudo apt install geany
+   19  sudo apt update
+   20  sudo apt install tree
+   21  udo dpkg --configure -a
+   22  sudo dpkg --configure -a
+   23  sudo apt install tree
+   24  sudo apt install geany
+   25  sudo apt update
+   26  sudo apt install geany
+   27  sudo apt-get update--fix-missing
+   28  cd
+   29  sudo apt install tree
+   30  echo~
+   31  echo/~
+   32  echo\~
+   33  echo ~
+   34  echo \~
+   35  nano
+   36  tree
+   37  sudo apt install tree
+   38  cd
+   39  ..
+   40  cd..
+   41  sudo dpkg --configure -a 
+   42  apt install tree
+   43  tree
+   44  sudo apt install geany
+   45  sudo rm /var/lib/dpkg/lock
+   46  sudo dpkg --configure -a
+   47  sudo apt-get install whatever
+   48  sudo rm /var/lib/dpkg/lock
+   49  sudo rm /var/cache/apt/archives/lock
+   50  sudo apt install geany
+   51  sudo rm /var/lib/apt/lists/lock
+   52  sudo rm /var/cache/apt/archives/lock
+   53  sudo rm /var/lib/dpkg/lock
+   54  ps aux | grep [a]pt
+   55  sudo kill processnumber
+   56  tree
+   57  geany
+   58  git
+   59  sudo apt install git
+   60  ps aux | grep -i apt
+   61  /etc/apt/apt.conf.d/20auto-upgrades.
+   62  ps aux | grep -i apt
+   63  sudo kill 2216
+   64  ps aux | grep -i apt
+   65  sudo apt install git
+   66  sudo dpkg --configure -a
+   67  sudo apt install git
+   68  git
+   69  sudo apt install git
+   70  ps aux | grep -i apt
+   71  sudo kill 10128
+   72  ps aux | grep -i apt
+   73  sudo kill 10132
+   74  sudo kill 10163
+   75  ps aux | grep -i apt
+   76  git--version
+   77  sudo apt install git
+   78  sudo dpkg --configure -a
+   79  sudo apt install git
+   80  git
+   81  sudo apt install git
+   82  sudo dpkg --configure -a
+   83  sudo apt install git
+   84  git
+   85  git--version
+   86  git --version
+   87  sudo apt install tree
+   88  tree
+   89  sudo apt install geany
+   90  geany
+   91  clear
+   92  git clone https://github.com/moby/moby.git
+   93  ls
+   94  cd moby
+   95  ls
+   96  pwd
+   97  cd..
+   98  cd
+   99  pwd
+  100  ls
+  101  cd Documents
+  102  ls
+  103  cd firstproject
+  104  ls
+  105  ll
+  106  touch a b
+  107  ls
+  108  git status
+  109  git add a b
+  110  git status
+  111  ls
+  112  git rm a -f
+  113  git status
+  114  ls
+  115  git rm b --cached
+  116  git status
+  117  ls
+  118  git add .
+  119  git status
+  120  git commit -m "Added files b and test2"
+  121  git log
+  122  touch test 2
+  123  ls
+  124  git status
+  125  cat test.txt
+  126  echo "The file ha been updated" >> test.txt
+  127  ls
+  128  cat test.txt
+  129  git status
+  130  git rm 2 -f
+  131  ls
+  132  rm 2 -f
+  133  ls
+  134  rm test -f
+  135  ls
+  136  git status
+  137  git add .
+  138  git status
+  139  git commit -m "Modified file test.txt"
+  140  git log
+  141  ls
+  142  git status
+  143  git log
+  144  cd .git
+  145  ls
+  146  cat HEAD
+  147  ls branches/
+  148  ls *
+  149  cd logs
+  150  ls
+  151  cat HEAD
+  152  cd..
+  153  cd ..
+  154  ls
+  155  git clone https://github.com/OrAsidon/GitCourse.git
+  156  ls
+  157  cd GitCourse/
+  158  ls
+  159  git log
+  160  clear
+  161  git remote add origin https://github.com/OrAsidon/GitCourse.git
+  162  touch a
+  163  git status
+  164  git add .
+  165  git commit -m "Added file a"
+  166  git log
+  167  git pull
+  168  ls
+  169  git log
+  170  ls
+  171  cd Documents
+  172  ls
+  173  cd GitCourse/
+  174  git pull
+  175  git log
+  176  ls
+  177  cd Documents/
+  178  ls
+  179  cd GitCourse/
+  180  git push origin master
+  181  cd ..
+  182  rm -rf GitCourse/
+  183  git clone https://github.com/OrAsidon/GitCourse.git
+  184  cd GitCourse/
+  185  git pull
+  186  git log
+  187  ls
+  188  cd Documents/
+  189  ls
+  190  cd GitCourse/
+  191  ls
+  192  history > history_1
+  193  ls
+  194  git status
+  195  git add .
+  196  git commit -m "Added my first history of my linux commands"
+  197  git log
+  198  ls
+  199  cat history_1
+  200  git status
+  201  git push
+  202  git push origin master
+  203  git push
+  204  git push origin main
+  205  ping github.com
+  206  ifconfig
+  207  lfconfig
+  208  fconfig
+  209  sudo apt install net-tools
+  210  cd
+  211  pwd
+  212  ls .ssh
+  213  ll
+  214  ssh-keygen –t rsa –b 4096
+  215  ls
+  216  ssh-keygen -t rsa -b 4096
+  217  ll .ssh
+  218  cd .ssh
+  219  ls
+  220  cat id_rsa.pub
+  221  cd
+  222  ls
+  223  cd Documents/
+  224  ls
+  225  cd GitCourse/
+  226  ls
+  227  ssh -T git@github.com
+  228  ls ~/.ssh
+  229  cat ~/.ssh/known_hosts 
+  230  ping github.com
+  231  git config remote.origin.url git@github.com:OrAsidon/GitCourse.git
+  232  pwd
+  233  history > history
